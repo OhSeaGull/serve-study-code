@@ -1,4 +1,4 @@
-package com.muyou.java;
+package java;
 
 public class HelloWorld {
 
